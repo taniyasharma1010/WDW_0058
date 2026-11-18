@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 3</title>
+</head>
+<body>
+    <div style="background-color: #f0f0f0; margin-bottom: 5px;">Block 1</div>
+    <div style="background-color: #e0e0e0; margin-bottom: 10px;">Block 2</div>
+    
+    <span>Inline 1</span> 
+    <span>Inline 2</span> 
+    <span>Inline 3</span>
+</body>
+</html>
