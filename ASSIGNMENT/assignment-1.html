@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 1</title>
+</head>
+<body>
+    <!-- This is a comment: Basic skeleton of an HTML5 page -->
+    Hello, Web!
+    <p>This is my first HTML page.</p>
+</body>
+</html>
