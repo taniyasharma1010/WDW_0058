@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 16</title>
+</head>
+<body>
+    <form>
+        <p>
+            <label for="course">Course:</label>
+            <select id="course">
+                <option>ECE</option>
+                <option>CSE</option>
+            </select>
+        </p>
+        <p>
+            <label for="feedback">Feedback:</label><br>
+            <textarea id="feedback" rows="4" cols="40" placeholder="Write here..."></textarea>
+        </p>
+        <p>
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+            <button type="button">Click Me</button>
+        </p>
+    </form>
+</body>
+</html>
