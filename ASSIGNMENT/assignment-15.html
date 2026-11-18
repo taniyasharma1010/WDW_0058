@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 15</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Personal Details</legend>
+            <p>
+                <label for="name">Name:</label>
+                <input type="text" id="name">
+            </p>
+            <p>
+                <label for="email">Email:</label>
+                <input type="email" id="email">
+            </p>
+            <p>
+                <label for="password">Password:</label>
+                <input type="password" id="password">
+            </p>
+            <p>
+                <label>Gender:</label>
+                <input type="radio" id="male" name="gender"> <label for="male">Male</label>
+                <input type="radio" id="female" name="gender"> <label for="female">Female</label>
+            </p>
+            <p>
+                <label>Hobbies:</label>
+                <input type="checkbox" id="reading"> <label for="reading">Reading</label>
+                <input type="checkbox" id="coding"> <label for="coding">Coding</label>
+            </p>
+            <p>
+                <label for="dob">DOB:</label>
+                <input type="date" id="dob">
+            </p>
+        </fieldset>
+    </form>
+</body>
+</html>
