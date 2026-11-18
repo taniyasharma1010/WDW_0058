@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 13</title>
+    <style>
+        table, th, td { border: 1px solid black; border-collapse: collapse; padding: 8px; text-align: center; }
+    </style>
+</head>
+<body>
+    <h3>Weekly Timetable</h3>
+    <table>
+        <tr>
+            <th>Day</th>
+            <th>9-10</th>
+            <th>10-11</th>
+            <th>11-12</th>
+        </tr>
+        <tr>
+            <td>Mon</td>
+            <td>Maths</td>
+            <td>HTML</td>
+            <td rowspan="2">Web Lab</td>
+        </tr>
+        <tr>
+            <td>Tue</td>
+            <td>DBMS</td>
+            <td>OS</td>
+        </tr>
+        <tr>
+            <td>Wed</td>
+            <td colspan="3">Seminar</td>
+        </tr>
+    </table>
+</body>
+</html>
